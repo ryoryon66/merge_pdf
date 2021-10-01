@@ -1,0 +1,2 @@
+# merge_pdf
+同一フォルダ内のpdfを合体させるpythonスクリプト
